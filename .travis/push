@@ -1,7 +1,7 @@
 
 
 #!/bin/bash
-APP_NAME=$1
+APP_NAME=$cloud-basecamp
 NEO=./target/sdk/tools/neo.sh
 pwd
 echo Deploying "$cloud-basecamp"
